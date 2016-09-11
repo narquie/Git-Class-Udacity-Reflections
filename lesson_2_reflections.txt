@@ -1,0 +1,7 @@
+What happens when you initialize a repository? 
+Why do you need it?
+
+When you init a new repository, you create a
+file that holds histories of all files you'd
+like to track. It helps for tracking changes
+to files and coding etc.

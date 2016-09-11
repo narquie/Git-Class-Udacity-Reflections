@@ -1,0 +1,21 @@
+It helped me because it showed me exactly where changes were made
+
+You'd be able to see where parts of your program succeeded or failed
+in the past
+
+Manually choosing to commit is nice because you can put logic behind
+commmits
+you autosaves mixed with commits might be nice as well
+
+I think that Git is more organized around projects whereas Drive is
+organized in any format you want (technically defaults to single 
+files)
+
+you can use git log and git diff to find the history (and marked)
+changes, as well as the actual changes themselves (respectively)
+
+If you use version control and save regularly, it is safer to 
+make a change that you know may fail because you could always
+revert it
+
+I want to use Git to create and manage code more efficiently
