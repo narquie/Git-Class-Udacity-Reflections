@@ -5,3 +5,7 @@ When you init a new repository, you create a
 file that holds histories of all files you'd
 like to track. It helps for tracking changes
 to files and coding etc.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an in-between state that helps mediate between the two. It adds value that you can confirm what you want to commit before you do
