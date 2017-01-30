@@ -21,3 +21,7 @@ you have one commit per logical change?
 You can always use git diff to see what changes
 you would make and ensure that it is the correct
 amount of changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If you are making a change that is significantly different from the path of the main branch (i.e. the main project requisites) then you might want to keep any commits or fixes that don't adhere to the main goals as a separate commit.
