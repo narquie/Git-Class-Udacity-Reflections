@@ -29,3 +29,7 @@ If you are making a change that is significantly different from the path of the 
 How do the diagrams help you visualize the branch structure?
 
 With diagrams you can find out where each branch started (based on its relative position to the main branch) and find out if any of the forked files are unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging the two branches is a single branch which has all the changes associated with the two branches that were merged. We represent it in the diagram the way we do because one branch must be the "master branch" (unofficially) and it also reminds us of all the branches that used to be connected to other branches (e.g. not the old master branch).
