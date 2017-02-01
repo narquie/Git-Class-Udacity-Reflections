@@ -33,3 +33,7 @@ With diagrams you can find out where each branch started (based on its relative 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging the two branches is a single branch which has all the changes associated with the two branches that were merged. We represent it in the diagram the way we do because one branch must be the "master branch" (unofficially) and it also reminds us of all the branches that used to be connected to other branches (e.g. not the old master branch).
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of Git's automatic merging is that you have a full log of all changes made... the cons are that you do not have a visually recognizable idea of what the commit was (and the exact opposite for manual merging).
