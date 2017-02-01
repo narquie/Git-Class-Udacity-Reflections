@@ -30,7 +30,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate with others by using either G Suite (because of its
+    collaborative nature) or I would send a set of scripts back and forth
+    between myself and my collaborators. It would be much, much harder to
+    see what changes were actually made than when using GitHub.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
