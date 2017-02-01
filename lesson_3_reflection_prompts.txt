@@ -22,7 +22,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If you have a copy of the last known state of the remote stored locally,
+    you can use that copy as a separate branch of the remote repository. Once
+    you are ready to share your changes with others, you can pull, merge, and
+    push the new changes.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
